@@ -1,0 +1,2 @@
+invoice_number,invoice_date,due_date,gstin,mobile,email,customer_name,place_of_supply,total_amount,total_discount,total_items_qty,amount_in_words,bank_name,account_number,ifsc_code,branch
+INV-150,22 Mar 2024,01 Apr 2024,23AADCU2395N1ZY,+91 8585960963,ruhi@dermaq.in,Bhusan Naresh,23-MADHYA PRADESH,466.00,63.48,1 / 1.000,INR Four Hundred And Sixty-Six Rupees Only.,Kotak Mahindra Bank,1146860541,kkbk0000725,
