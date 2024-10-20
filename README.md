@@ -35,4 +35,5 @@ Itemized extraction when tables are poorly aligned or split across lines.
 The project generates the following output files:
 
 invoice_data.csv: Contains invoice-level summary fields
+
 items_data.csv: Contains detailed information for each item in the invoices, along wiht the inovice_id
