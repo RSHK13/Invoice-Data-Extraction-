@@ -7,7 +7,9 @@ This method extracts text using pdfplumber for native PDFs and pytesseract for s
 Text Extraction:
 
 Native PDFs: pdfplumber extracts text directly.
+
 Scanned PDFs: pytesseract performs OCR to extract text from images.
+
 Text Cleaning: Removes extra whitespace to improve extraction accuracy.
 
 Pattern Matching: Uses regular expressions to extract key fields such as:
