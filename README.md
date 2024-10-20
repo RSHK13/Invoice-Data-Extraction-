@@ -39,3 +39,8 @@ The project generates the following output files:
 invoice_data.csv: Contains invoice-level summary fields
 
 items_data.csv: Contains detailed information for each item in the invoices, along wiht the inovice_id
+
+# Accuracy & Scalability
+Accuracy in GenAI tasks is very difficult to assess, if given human marked inputs we can check for BLEU scores. But considering our dataset had well-generated pdfs and that the task at hand required zero-shot learning, the current methods seem to be doing well. 
+
+The traditional method is particular to the current format, which is quite general, and the method using Google's multimodal LLM is more generalizable and scalable to any format of pdf. Also, both these methods work well with regular and scanned pdfs.
